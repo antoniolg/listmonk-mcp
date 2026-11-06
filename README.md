@@ -1,3 +1,7 @@
+> [!WARNING]
+> **Archivado · Archived.** Este servidor MCP ya no se mantiene y sus dependencias no se actualizan: úsalo bajo tu responsabilidad. This MCP server is no longer maintained and its dependencies are not updated: use it at your own risk.
+> Lo que enseño ahora · What I teach now: [devexpert.io](https://devexpert.io)
+
 # Listmonk MCP Server
 
 A Model Context Protocol (MCP) server for integrating with Listmonk, the self-hosted newsletter and mailing list manager.
